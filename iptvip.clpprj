@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="Z:\iptvip\iptvip.clpprj">
+	<settings><PM_URL><![CDATA[http://localhost/id/]]></PM_URL><PM_HOME_URL><![CDATA[http://localhost/id/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+		<file name="Z:\iptvip\application\controllers\Home.php"/>
+		<file name="Z:\iptvip\application\models\Modb.php"/>
+		<file name="Z:\iptvip\application\views\listdepo.php"/>
+		<file name="Z:\iptvip\application\views\template.php"/>
+		<file name="Z:\iptvip\application\views\login.php"/>
+		<file name="Z:\iptvip\application\views\dashboard.php"/>
+		<file name="Z:\iptvip\application\views\input.php"/>
+		<file name="Z:\iptvip\application\config\database.php"/>
+		<file name="Z:\iptvip\application\views\layout\sidebar.php"/>
+		<file name="Z:\iptvip\application\config\config.php"/>
+		<file name="Z:\iptvip\application\config\autoload.php"/>
+		<file name="Z:\iptvip\application\views\layout\footer.php"/>
+		<file name="Z:\iptvip\assets\js\script.js"/>
+	</lastopfiles>
+	<errors version="5.11">
+		<errfile name="Z:\iptvip\application\views\listdepo.php">
+			<error val="71;43;100;43;2002;1;"/>
+		</errfile>
+		<errfile name="Z:\iptvip\application\libraries\Mongo_db.php">
+			<error val="3;33;12;33;601;1;"/>
+			<error val="23;35;24;35;602;1;"/>
+			<error val="25;36;26;36;602;1;"/>
+			<error val="39;37;40;37;602;1;"/>
+		</errfile>
+	</errors>
+	<cakedata>
+	</cakedata>
+	<dplmenupath>
+	</dplmenupath><laravael>
+	</laravael><smartyassings>
+	</smartyassings><twigtemplate>
+	</twigtemplate><yiidata>
+	</yiidata>
+	<todoblock>
+		<todofile name="Z:\iptvip\application\libraries\Mongo_db.php">
+			<todo name="TODO #1: Get document in format gotten from database, without convertation to object or array." pos="1;25"/>
+			<todo name="TODO #2: updateWhere, updateAllWhere." pos="1;26"/>
+			<todo name="TODO #3: deleteWhere, deleteAllWhere." pos="1;27"/>
+			<todo name="TODO #4: switch_db by config_group." pos="1;28"/>
+		</todofile>
+		<todofile name="Z:\iptvip\system\core\Loader.php">
+			<todo name="todo	Figure out a way to move this to the constructor" pos="5;148"/>
+		</todofile>
+		<todofile name="Z:\iptvip\system\core\Output.php">
+			<todo name="todo	We need to figure out how to permit headers to be cached." pos="5;209"/>
+		</todofile>
+		<todofile name="Z:\iptvip\system\database\DB_forge.php">
+			<todo name="todo	Remove deprecated $_after option in 3.1+" pos="5;558"/>
+		</todofile>
+		<todofile name="Z:\iptvip\system\database\DB_query_builder.php">
+			<todo name="@todo error" pos="4;2003"/>
+		</todofile>
+		<todofile name="Z:\iptvip\system\database\drivers\sqlite3\sqlite3_driver.php">
+			<todo name="todo	Implement use of SQLite3::querySingle(), if needed" pos="5;120"/>
+		</todofile>
+		<todofile name="Z:\iptvip\system\database\drivers\sqlite3\sqlite3_forge.php">
+			<todo name="todo	implement drop_column(), modify_column()" pos="5;135"/>
+		</todofile>
+		<todofile name="Z:\iptvip\system\database\drivers\sqlite\sqlite_forge.php">
+			<todo name="todo	implement drop_column(), modify_column()" pos="5;115"/>
+		</todofile>
+		<todofile name="Z:\iptvip\system\helpers\date_helper.php">
+			<todo name="todo	Remove in version 3.1+." pos="5;134"/>
+		</todofile>
+		<todofile name="Z:\iptvip\system\helpers\file_helper.php">
+			<todo name="todo	Remove in version 3.1+." pos="5;58"/>
+		</todofile>
+		<todofile name="Z:\iptvip\system\helpers\security_helper.php">
+			<todo name="todo	Remove in version 3.1+." pos="5;89"/>
+		</todofile>
+		<todofile name="Z:\iptvip\system\helpers\string_helper.php">
+			<todo name="todo	Remove in version 3.1+." pos="5;64"/>
+			<todo name="todo: remove in 3.1+" pos="19;229"/>
+			<todo name="todo: remove in 3.1+" pos="20;232"/>
+			<todo name="todo	Remove in version 3.1+." pos="5;292"/>
+		</todofile>
+		<todofile name="Z:\iptvip\system\helpers\url_helper.php">
+			<todo name="todo	Remove old 'dash' and 'underscore' usage in 3.1+." pos="5;472"/>
+		</todofile>
+		<todofile name="Z:\iptvip\system\libraries\Xmlrpc.php">
+			<todo name="@todo - this needs to be made more general purpose" pos="6;1574"/>
+		</todofile>
+	</todoblock>
+	<dbgurls>
+	</dbgurls>
+</project>
